@@ -4,7 +4,8 @@
   "description": "This program allows people to post, update, or delete items, categories, or tags.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
