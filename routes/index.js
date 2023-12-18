@@ -5,6 +5,7 @@ const apiRoutes = require('./api');
 //Using the router for the database
 router.use('/api', apiRoutes);
 
+//if wrong route, address that
 router.use((req, res) => {
   res.send("<h1>Wrong Route!</h1>")
 });
