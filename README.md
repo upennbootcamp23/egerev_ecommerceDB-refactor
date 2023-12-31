@@ -1,8 +1,9 @@
  Alex Egerev's E-Commerce Back End Project
 
-![image](https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/7b3bc392-6a0c-40d3-86ad-c0543857c6e1)
-![image](https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/4adc4f88-3256-4731-a22e-54bdda35f62d)
-
+![image](https://github.com/upennbootcamp23/egerev_ecommerceDB-refactor/assets/143010411/e2dcb143-c0a9-44cf-a1a3-a9aaacc53c8a)
+![image](https://github.com/upennbootcamp23/egerev_ecommerceDB-refactor/assets/143010411/736bccd2-e919-4c20-8dad-ae432f731517)
+![image](https://github.com/upennbootcamp23/egerev_ecommerceDB-refactor/assets/143010411/a72314bf-f27d-4ebb-a343-745c550ffc26)
+![image](https://github.com/upennbootcamp23/egerev_ecommerceDB-refactor/assets/143010411/dea7ef5a-5b98-4563-9a47-99f7fd104c07)
 
 ## Description
 
@@ -46,6 +47,7 @@ Please refer to the LICENSE in the repo.
 
 ## Demonstration
 Because the file is not deployed on GitHub Pages, I am providing the video on how I did that. 
+https://github.com/upennbootcamp23/egerev_ecommerceDB-refactor/assets/143010411/fe3ac0a9-1935-466a-9c54-3838ee0423b8
 
 
 
